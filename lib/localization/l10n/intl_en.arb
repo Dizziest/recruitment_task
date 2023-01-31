@@ -1,0 +1,13 @@
+{
+  "appName": "Movie Browser",
+  "budget": "Budget",
+  "revenue": "Revenue",
+  "shouldIWatchItToday": "Should I watch it today?",
+  "yes": "Yes",
+  "no": "No",
+  "somethingWentWrong": "Ooops, something went wrong...",
+  "tryAgain": "Try again",
+  "searchBoxHint": "Search...",
+  "moviesListInitialText": "Enter a title to search movies!",
+  "moviesListEmptyScreenText": "No movies were found for this phrase."
+}
